@@ -55,6 +55,9 @@ docker run -p 3000:3000 node-app
 
 Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to see your Node.js application running.
 
+![Project5c](https://github.com/user-attachments/assets/7fadf6a5-93ee-4fa3-a027-689def016b3d)
+
+
 ### Contributing
 Feel free to fork this repository and submit pull requests for any improvements or fixes!
 
